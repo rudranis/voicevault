@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # voicevault-ai
 >>>>>>> df66ee843a9bdd1d46b58691c4e420629ea92be1
+=======
+# voicevault
+>>>>>>> e46e1b5113576160290d79e563aab97bee0a2408

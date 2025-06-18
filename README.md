@@ -5,6 +5,14 @@ Before jumping into the implementation, it's important to understand how all com
 ![WhatsApp Image 2025-06-18 at 20 47 50_4d153fd0](https://github.com/user-attachments/assets/97b53c75-509c-4bb7-8963-2bc140f775da)
 
 
+OUTPUT:
+![image](https://github.com/user-attachments/assets/0e3b641d-0057-4670-8fa0-a1d4d496a235)
+![image](https://github.com/user-attachments/assets/83437aa4-1f91-4ce4-b9ca-56208d870fa5)
+
+![image](https://github.com/user-attachments/assets/c8f5b980-30e3-44a7-9690-a90ba9df3d16)
+![image](https://github.com/user-attachments/assets/6f65499f-9d97-4c76-abb5-1a6a6c7c167b)
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 # Getting Started with Create React App

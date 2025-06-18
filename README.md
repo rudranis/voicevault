@@ -70,9 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# voicevault-ai
->>>>>>> df66ee843a9bdd1d46b58691c4e420629ea92be1
+
 =======
 # voicevault
 >>>>>>> e46e1b5113576160290d79e563aab97bee0a2408

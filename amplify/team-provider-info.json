@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voicevaultai-dev-c28e8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::873500398122:role/amplify-voicevaultai-dev-c28e8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::873500398122:role/amplify-voicevaultai-dev-c28e8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-voicevaultai-dev-c28e8-deployment",
+      "UnauthRoleName": "amplify-voicevaultai-dev-c28e8-unauthRole",
+      "StackName": "amplify-voicevaultai-dev-c28e8",
+      "StackId": "arn:aws:cloudformation:us-east-1:873500398122:stack/amplify-voicevaultai-dev-c28e8/b31ce420-4c38-11f0-a174-0affcc39382d",
+      "AmplifyAppId": "d19gxgju9c20e1"
+    },
+    "categories": {
+      "auth": {
+        "voicevaultaib33ce81c": {}
+      }
+    }
+  }
+}

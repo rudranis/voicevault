@@ -1,3 +1,10 @@
+🎙️ VoiceVault : Building a Voice Recorder App with React & AWS S3
+
+🧱 Project Architecture
+Before jumping into the implementation, it's important to understand how all components interact in the VoiceVault AI ecosystem.
+![WhatsApp Image 2025-06-18 at 20 47 50_4d153fd0](https://github.com/user-attachments/assets/97b53c75-509c-4bb7-8963-2bc140f775da)
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 # Getting Started with Create React App

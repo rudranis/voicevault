@@ -11,6 +11,7 @@ VoiceVault is designed to provide a secure voice recorder for authenticated user
 - Fully responsive UI
 
   ✨ Features
+  
 ✅ Secure voice recording via browser  
 ✅ AWS Cognito user authentication  
 ✅ Upload recorded audio to S3  
